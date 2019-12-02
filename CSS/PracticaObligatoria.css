@@ -107,15 +107,9 @@ h3{
     height: 200px;
     margin-top: 10px;
 }
-#ultimotweet{
-    width: 300px;
-    height: 300px;
-    border: transparent;
-    display: inline-block;
-    margin-left: 10px;
-    margin-top: -200px;
+
     
-}
+
 #fotos{
     width: 300px;
     height: 300px;
@@ -123,46 +117,102 @@ h3{
     display: inline-block;
     margin-left: 10px;
     margin-top: -200px;
-    
 }
-#img1{
+
+#MIULTIMOTWEET{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    top: 90%;
+    left: 50px;
+    bottom: 10px;
+    width: 390px;
+    height: 390px;
+}
+
+
+
+#Flecha{
+    font-size: 12px;
+    position:absolute;
+    top: 85.8%;
+    left: 400px;
+    bottom: 10px;
+    width: 390px;
+    height: 390px;
+}
+
+#MISFOTOGRAFIAS{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    top: 90%;
+    left: 400px;
+    bottom: 10px;
+    width: 390px;
+    height: 390px;
+}
+
+#imagen1{
     width: 10%;
     display: inline-block;
     margin-left: 30px;
 }
-#img2{
+#imagen2{
     width: 10%;
     display: inline-block;
     margin-left: 30px;
 }
-#img3{
+#imagen3{
+    width: 10%;
+    display: inline-block;
+    margin-left: 10px;
+}
+#imagen4{
     width: 10%;
     display: inline-block;
     margin-left: 30px;
 }
-#img4{
-    width: 10%;
-    display: inline-block;
-    margin-left: 30px;
+
+
+#MISAMIGOS{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position:absolute;
+    top: 90%;
+    left: 900px;
+    bottom: 10px;
+    width: 390px;
+    height: 390px;
 }
-#amigos{
-    width: 500px;
-    height: 400px;
-    border: transparent;
-    display: inline-block;
-    margin-left: 50px;
-    margin-top: 100px;
-    margin-right: -80%;
+
+#PrimerosNombres{
+    font-size: 12px;
+    position:absolute;
+    top: 8%;
+    left: 150px;
+    bottom: 10px;
+    width: 390px;
+    height: 390px;
+}
+#SegundoNombre{
+    font-size: 12px;
+    position:absolute;
+    top: 101%;
+    left: 400px;
+    bottom: 10px;
+    width: 390px;
+    height: 390px;
 }
 
 hr{
     border: solid black 2px;
-    width: -999px;
-    margin-left: 10px;
+    width: 1500px;
+    margin-left: -650px;
 }
-#linea{
-    width: 500%;
-    height: -500%;
-    image-resolution: 200px;
-    margin: 15%;
+
+#hr{
+    border: solid black 2px;
+    width: 1500px;
+    margin-left: -650px;
 }
