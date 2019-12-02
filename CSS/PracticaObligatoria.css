@@ -52,7 +52,7 @@ h1{
 }
 #sanfrancisco{
     width: 998px;
-    height: 899px;
+    height: 199px;
     border-radius: 15px;
 }
 #recuerdo{
@@ -146,12 +146,13 @@ h3{
     margin-left: 30px;
 }
 #amigos{
-    width: 300%;
-    height: 300%;
+    width: 500px;
+    height: 400px;
     border: transparent;
     display: inline-block;
-    margin-left: 100%;
-    margin-top: 100%;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-right: -80%;
 }
 
 hr{
