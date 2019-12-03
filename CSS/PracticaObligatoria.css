@@ -85,7 +85,7 @@ h2{
     height: 20%;
     float: right;
     margin-right: 300px;
-    top: 70%;
+    top: 130%;
 }
 
 
@@ -98,7 +98,7 @@ h3{
     margin-top: 80px;
 }
 #twitter{
-    margin-top: 70px;
+    margin-top: 90%;
     margin-left: 12px;
 }
 #vimeo{
@@ -147,7 +147,7 @@ h3{
 #Flecha{
     font-size: 12px;
     position:absolute;
-    top: 85.8%;
+    top: 95.8%;
     left: 400px;
     bottom: 10px;
     width: 390px;
